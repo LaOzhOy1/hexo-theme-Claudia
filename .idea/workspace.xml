@@ -5,48 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da51032d-a977-40b2-aa85-92b9ba5d4825" name="Changes" comment="less is more.">
-      <change afterPath="$PROJECT_DIR$/_config.landscape.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/2025/01/04/hello-world/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/archives/2025/01/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/archives/2025/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/archives/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/atom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/aha.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/images/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/common.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/highlight.pack.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/img_zoom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-3.6.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/jquery-fancybox.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/js/post.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/search.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/about.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/archive.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/common/bulma.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/common/helper.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/common/jquery.fancybox.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/common/variable.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/post.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/themes/default-dark.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/themes/default-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/themes/highlight-theme-light.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/themes/theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/widget-header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/style/widget-post-list.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scaffolds/draft.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scaffolds/page.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scaffolds/post.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/source/_posts/hello-world.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/themes/Claudia" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/themes/Claudia/source/images/aha.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notice" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/Claudia" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Claudia" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/themes/Claudia/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Claudia/_config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1735820876763</updated>
-      <workItem from="1735820877988" duration="10113000" />
+      <workItem from="1735820877988" duration="15211000" />
     </task>
     <servers />
   </component>
